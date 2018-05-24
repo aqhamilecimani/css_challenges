@@ -1,0 +1,82 @@
+h1{
+color:Blue;
+text-decoration: underline;
+text-shadow:2px 2px green;
+}
+.p1{
+	color:black;
+	letter-spacing:-1px;
+	word-spacing:3px;
+	font-size:14px;
+}
+{
+	color:green;
+	text-align:center;
+}
+button{
+	color:green;
+}
+.reset{
+	color:red;
+}
+/*research styling "sticky" for footer*/
+footer{
+	 clear: both;
+	background-color: black;
+	color:orange;
+	padding: 20px;
+	position:sticky;/*research sticky navbar or read up on the link provided*/
+	border-top: 5px solid #a66;
+	border-bottom: 5px solid #a66;
+	text-align:center;
+}
+.body{
+	/*download a background-image*/
+	background-color:pink;
+	margin: 0 auto;
+	min-width: 1000px;
+	max-width: 1400px;
+	font-size: 14px;
+	line-height: 1.6;
+	color: black;
+	word-spacing: 3px;
+	letter-spacing: -1px;
+}
+.container{
+	background-color:purple;
+	margin:o;
+	padding:20px;
+	border:1px solid black;
+}
+labels{
+	/*search in google and style the placeholders*/
+	/*stye labels using descendandt  selectors-use google*/
+}
+anchor{
+	/*style 4 states of the anchor tags, use google or read us on the link provided*/
+}
+header{
+	background-color: black;
+	padding: 20px;
+	border-top: 5px solid #a66;
+	border-bottom: 5px solid #a66;
+	text-align:center;
+}
+.link{
+  font-family: 'Nunito', sans-serif;
+}
+.background-image{
+background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqiFAxFn78h9j3CzZxraRyi8NCdpxLMYnn_98IedNPC8nUtGGMFw');
+}
+/*.topnav{
+	background-color:light grey;
+	padding: 10px;
+	loat: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+	overflow: hidden;
+}google and make it work
+*/}

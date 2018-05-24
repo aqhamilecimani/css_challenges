@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Montserrat|Oswald');
+.container{
+  background-color:grey;
+  border: 2px solid black;
+}
+h1,h2{
+  text-decoration: underline;
+  text-shadow: 2px 2px #ff0000;
+}
+h1{
+  color: orange;
+}
+h2{
+  color:purple;
+}
+.link{
+  font-family: 'Nunito', sans-serif;
+  font-family: 'PT Sans', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: pink;
+}
+.import{
+  font-family: 'Black Han Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  color: pink;
+}
